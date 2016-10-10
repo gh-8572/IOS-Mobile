@@ -8,22 +8,36 @@
 
 /* Begin PBXBuildFile section */
 		B825AF6A1DAC0B890074E4F6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B825AF691DAC0B890074E4F6 /* AppDelegate.swift */; };
-		B825AF6C1DAC0B890074E4F6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B825AF6B1DAC0B890074E4F6 /* ViewController.swift */; };
 		B825AF6F1DAC0B890074E4F6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B825AF6D1DAC0B890074E4F6 /* Main.storyboard */; };
 		B825AF721DAC0B890074E4F6 /* HomeInventory.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B825AF701DAC0B890074E4F6 /* HomeInventory.xcdatamodeld */; };
 		B825AF741DAC0B890074E4F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B825AF731DAC0B890074E4F6 /* Assets.xcassets */; };
 		B825AF771DAC0B890074E4F6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B825AF751DAC0B890074E4F6 /* LaunchScreen.storyboard */; };
+		B825AF811DAC1B0F0074E4F6 /* PropertyTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B825AF801DAC1B0F0074E4F6 /* PropertyTableViewController.swift */; };
+		B825AF831DAC1B210074E4F6 /* RoomTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B825AF821DAC1B210074E4F6 /* RoomTableViewController.swift */; };
+		B825AF851DAC1B2F0074E4F6 /* ItemTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B825AF841DAC1B2F0074E4F6 /* ItemTableViewController.swift */; };
+		B825AF871DAC1B400074E4F6 /* CategoryTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B825AF861DAC1B400074E4F6 /* CategoryTableViewController.swift */; };
+		B825AF891DAC1B620074E4F6 /* AddPropertyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B825AF881DAC1B620074E4F6 /* AddPropertyViewController.swift */; };
+		B825AF8B1DAC1B700074E4F6 /* AddRoomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B825AF8A1DAC1B700074E4F6 /* AddRoomViewController.swift */; };
+		B825AF8D1DAC1B850074E4F6 /* AddItemViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B825AF8C1DAC1B850074E4F6 /* AddItemViewController.swift */; };
+		B825AF8F1DAC1B9D0074E4F6 /* AddCategoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B825AF8E1DAC1B9D0074E4F6 /* AddCategoryViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		B825AF661DAC0B890074E4F6 /* HomeInventory.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HomeInventory.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B825AF691DAC0B890074E4F6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		B825AF6B1DAC0B890074E4F6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		B825AF6E1DAC0B890074E4F6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B825AF711DAC0B890074E4F6 /* HomeInventory.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = HomeInventory.xcdatamodel; sourceTree = "<group>"; };
 		B825AF731DAC0B890074E4F6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B825AF761DAC0B890074E4F6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B825AF781DAC0B890074E4F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B825AF801DAC1B0F0074E4F6 /* PropertyTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PropertyTableViewController.swift; sourceTree = "<group>"; };
+		B825AF821DAC1B210074E4F6 /* RoomTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoomTableViewController.swift; sourceTree = "<group>"; };
+		B825AF841DAC1B2F0074E4F6 /* ItemTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ItemTableViewController.swift; sourceTree = "<group>"; };
+		B825AF861DAC1B400074E4F6 /* CategoryTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CategoryTableViewController.swift; sourceTree = "<group>"; };
+		B825AF881DAC1B620074E4F6 /* AddPropertyViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddPropertyViewController.swift; sourceTree = "<group>"; };
+		B825AF8A1DAC1B700074E4F6 /* AddRoomViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddRoomViewController.swift; sourceTree = "<group>"; };
+		B825AF8C1DAC1B850074E4F6 /* AddItemViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddItemViewController.swift; sourceTree = "<group>"; };
+		B825AF8E1DAC1B9D0074E4F6 /* AddCategoryViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddCategoryViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,8 +71,15 @@
 			isa = PBXGroup;
 			children = (
 				B825AF691DAC0B890074E4F6 /* AppDelegate.swift */,
-				B825AF6B1DAC0B890074E4F6 /* ViewController.swift */,
 				B825AF6D1DAC0B890074E4F6 /* Main.storyboard */,
+				B825AF801DAC1B0F0074E4F6 /* PropertyTableViewController.swift */,
+				B825AF821DAC1B210074E4F6 /* RoomTableViewController.swift */,
+				B825AF841DAC1B2F0074E4F6 /* ItemTableViewController.swift */,
+				B825AF861DAC1B400074E4F6 /* CategoryTableViewController.swift */,
+				B825AF881DAC1B620074E4F6 /* AddPropertyViewController.swift */,
+				B825AF8A1DAC1B700074E4F6 /* AddRoomViewController.swift */,
+				B825AF8C1DAC1B850074E4F6 /* AddItemViewController.swift */,
+				B825AF8E1DAC1B9D0074E4F6 /* AddCategoryViewController.swift */,
 				B825AF731DAC0B890074E4F6 /* Assets.xcassets */,
 				B825AF751DAC0B890074E4F6 /* LaunchScreen.storyboard */,
 				B825AF781DAC0B890074E4F6 /* Info.plist */,
@@ -138,9 +159,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B825AF851DAC1B2F0074E4F6 /* ItemTableViewController.swift in Sources */,
+				B825AF831DAC1B210074E4F6 /* RoomTableViewController.swift in Sources */,
 				B825AF721DAC0B890074E4F6 /* HomeInventory.xcdatamodeld in Sources */,
-				B825AF6C1DAC0B890074E4F6 /* ViewController.swift in Sources */,
+				B825AF8B1DAC1B700074E4F6 /* AddRoomViewController.swift in Sources */,
 				B825AF6A1DAC0B890074E4F6 /* AppDelegate.swift in Sources */,
+				B825AF8D1DAC1B850074E4F6 /* AddItemViewController.swift in Sources */,
+				B825AF8F1DAC1B9D0074E4F6 /* AddCategoryViewController.swift in Sources */,
+				B825AF811DAC1B0F0074E4F6 /* PropertyTableViewController.swift in Sources */,
+				B825AF891DAC1B620074E4F6 /* AddPropertyViewController.swift in Sources */,
+				B825AF871DAC1B400074E4F6 /* CategoryTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
