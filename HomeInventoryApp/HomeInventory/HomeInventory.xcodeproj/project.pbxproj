@@ -1,0 +1,379 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		7311E0BA1DB6DE39005B4AA9 /* Property+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7311E0B61DB6DE39005B4AA9 /* Property+CoreDataProperties.swift */; };
+		7311E0BB1DB6DE39005B4AA9 /* Property.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7311E0B71DB6DE39005B4AA9 /* Property.swift */; };
+		7311E0BC1DB6DE39005B4AA9 /* Room+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7311E0B81DB6DE39005B4AA9 /* Room+CoreDataProperties.swift */; };
+		7311E0BD1DB6DE39005B4AA9 /* Room.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7311E0B91DB6DE39005B4AA9 /* Room.swift */; };
+		7319C5D81DA54B2B00B5B455 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7319C5D71DA54B2B00B5B455 /* AppDelegate.swift */; };
+		7319C5DA1DA54B2B00B5B455 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7319C5D91DA54B2B00B5B455 /* ViewController.swift */; };
+		7319C5DD1DA54B2C00B5B455 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7319C5DB1DA54B2C00B5B455 /* Main.storyboard */; };
+		7319C5E01DA54B2C00B5B455 /* HomeInventory.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 7319C5DE1DA54B2C00B5B455 /* HomeInventory.xcdatamodeld */; };
+		7319C5E21DA54B2C00B5B455 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7319C5E11DA54B2C00B5B455 /* Assets.xcassets */; };
+		7319C5E51DA54B2C00B5B455 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7319C5E31DA54B2C00B5B455 /* LaunchScreen.storyboard */; };
+		737E7F091DC7D7A90087B5E7 /* Category+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 737E7F051DC7D7A90087B5E7 /* Category+CoreDataProperties.swift */; };
+		737E7F0A1DC7D7A90087B5E7 /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = 737E7F061DC7D7A90087B5E7 /* Category.swift */; };
+		737E7F0B1DC7D7A90087B5E7 /* Item+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 737E7F071DC7D7A90087B5E7 /* Item+CoreDataProperties.swift */; };
+		737E7F0C1DC7D7A90087B5E7 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 737E7F081DC7D7A90087B5E7 /* Item.swift */; };
+		73E4A5601DB6B75E0065C00E /* PropertyTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73E4A55F1DB6B75E0065C00E /* PropertyTableViewController.swift */; };
+		73E4A5621DB6B7E50065C00E /* RoomTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73E4A5611DB6B7E50065C00E /* RoomTableViewController.swift */; };
+		73E4A5641DB6B7F70065C00E /* ItemTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73E4A5631DB6B7F70065C00E /* ItemTableViewController.swift */; };
+		73E4A5661DB6B81D0065C00E /* CategoryTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73E4A5651DB6B81D0065C00E /* CategoryTableViewController.swift */; };
+		73E4A5681DB6B8360065C00E /* AddPropertyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73E4A5671DB6B8360065C00E /* AddPropertyViewController.swift */; };
+		73E4A56A1DB6B84F0065C00E /* AddRoomViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73E4A5691DB6B84F0065C00E /* AddRoomViewController.swift */; };
+		73E4A56C1DB6B8660065C00E /* AddItemViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73E4A56B1DB6B8660065C00E /* AddItemViewController.swift */; };
+		73E4A56E1DB6B87A0065C00E /* AddCategoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 73E4A56D1DB6B87A0065C00E /* AddCategoryViewController.swift */; };
+		B83F6C861DD3C13300374856 /* ItemDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B83F6C851DD3C13300374856 /* ItemDetailViewController.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		7311E0B61DB6DE39005B4AA9 /* Property+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Property+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		7311E0B71DB6DE39005B4AA9 /* Property.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Property.swift; sourceTree = "<group>"; };
+		7311E0B81DB6DE39005B4AA9 /* Room+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Room+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		7311E0B91DB6DE39005B4AA9 /* Room.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Room.swift; sourceTree = "<group>"; };
+		7319C5D41DA54B2B00B5B455 /* HomeInventory.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HomeInventory.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7319C5D71DA54B2B00B5B455 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		7319C5D91DA54B2B00B5B455 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		7319C5DC1DA54B2C00B5B455 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		7319C5DF1DA54B2C00B5B455 /* HomeInventory.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = HomeInventory.xcdatamodel; sourceTree = "<group>"; };
+		7319C5E11DA54B2C00B5B455 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		7319C5E41DA54B2C00B5B455 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		7319C5E61DA54B2C00B5B455 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		737E7F051DC7D7A90087B5E7 /* Category+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Category+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		737E7F061DC7D7A90087B5E7 /* Category.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
+		737E7F071DC7D7A90087B5E7 /* Item+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Item+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		737E7F081DC7D7A90087B5E7 /* Item.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
+		73E4A55F1DB6B75E0065C00E /* PropertyTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PropertyTableViewController.swift; sourceTree = "<group>"; };
+		73E4A5611DB6B7E50065C00E /* RoomTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoomTableViewController.swift; sourceTree = "<group>"; };
+		73E4A5631DB6B7F70065C00E /* ItemTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ItemTableViewController.swift; sourceTree = "<group>"; };
+		73E4A5651DB6B81D0065C00E /* CategoryTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CategoryTableViewController.swift; sourceTree = "<group>"; };
+		73E4A5671DB6B8360065C00E /* AddPropertyViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddPropertyViewController.swift; sourceTree = "<group>"; };
+		73E4A5691DB6B84F0065C00E /* AddRoomViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddRoomViewController.swift; sourceTree = "<group>"; };
+		73E4A56B1DB6B8660065C00E /* AddItemViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddItemViewController.swift; sourceTree = "<group>"; };
+		73E4A56D1DB6B87A0065C00E /* AddCategoryViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddCategoryViewController.swift; sourceTree = "<group>"; };
+		B83F6C851DD3C13300374856 /* ItemDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ItemDetailViewController.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		7319C5D11DA54B2B00B5B455 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		7319C5CB1DA54B2B00B5B455 = {
+			isa = PBXGroup;
+			children = (
+				7319C5D61DA54B2B00B5B455 /* HomeInventory */,
+				7319C5D51DA54B2B00B5B455 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		7319C5D51DA54B2B00B5B455 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				7319C5D41DA54B2B00B5B455 /* HomeInventory.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		7319C5D61DA54B2B00B5B455 /* HomeInventory */ = {
+			isa = PBXGroup;
+			children = (
+				737E7F051DC7D7A90087B5E7 /* Category+CoreDataProperties.swift */,
+				737E7F061DC7D7A90087B5E7 /* Category.swift */,
+				737E7F071DC7D7A90087B5E7 /* Item+CoreDataProperties.swift */,
+				737E7F081DC7D7A90087B5E7 /* Item.swift */,
+				7311E0B61DB6DE39005B4AA9 /* Property+CoreDataProperties.swift */,
+				7311E0B71DB6DE39005B4AA9 /* Property.swift */,
+				7311E0B81DB6DE39005B4AA9 /* Room+CoreDataProperties.swift */,
+				7311E0B91DB6DE39005B4AA9 /* Room.swift */,
+				7319C5D71DA54B2B00B5B455 /* AppDelegate.swift */,
+				7319C5D91DA54B2B00B5B455 /* ViewController.swift */,
+				7319C5DB1DA54B2C00B5B455 /* Main.storyboard */,
+				7319C5E11DA54B2C00B5B455 /* Assets.xcassets */,
+				7319C5E31DA54B2C00B5B455 /* LaunchScreen.storyboard */,
+				7319C5E61DA54B2C00B5B455 /* Info.plist */,
+				7319C5DE1DA54B2C00B5B455 /* HomeInventory.xcdatamodeld */,
+				73E4A55F1DB6B75E0065C00E /* PropertyTableViewController.swift */,
+				73E4A5611DB6B7E50065C00E /* RoomTableViewController.swift */,
+				73E4A5631DB6B7F70065C00E /* ItemTableViewController.swift */,
+				73E4A5651DB6B81D0065C00E /* CategoryTableViewController.swift */,
+				73E4A5671DB6B8360065C00E /* AddPropertyViewController.swift */,
+				73E4A5691DB6B84F0065C00E /* AddRoomViewController.swift */,
+				73E4A56B1DB6B8660065C00E /* AddItemViewController.swift */,
+				B83F6C851DD3C13300374856 /* ItemDetailViewController.swift */,
+				73E4A56D1DB6B87A0065C00E /* AddCategoryViewController.swift */,
+			);
+			path = HomeInventory;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		7319C5D31DA54B2B00B5B455 /* HomeInventory */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7319C5E91DA54B2C00B5B455 /* Build configuration list for PBXNativeTarget "HomeInventory" */;
+			buildPhases = (
+				7319C5D01DA54B2B00B5B455 /* Sources */,
+				7319C5D11DA54B2B00B5B455 /* Frameworks */,
+				7319C5D21DA54B2B00B5B455 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = HomeInventory;
+			productName = HomeInventory;
+			productReference = 7319C5D41DA54B2B00B5B455 /* HomeInventory.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		7319C5CC1DA54B2B00B5B455 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = "Rob Elliott";
+				TargetAttributes = {
+					7319C5D31DA54B2B00B5B455 = {
+						CreatedOnToolsVersion = 7.3.1;
+					};
+				};
+			};
+			buildConfigurationList = 7319C5CF1DA54B2B00B5B455 /* Build configuration list for PBXProject "HomeInventory" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 7319C5CB1DA54B2B00B5B455;
+			productRefGroup = 7319C5D51DA54B2B00B5B455 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				7319C5D31DA54B2B00B5B455 /* HomeInventory */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		7319C5D21DA54B2B00B5B455 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7319C5E51DA54B2C00B5B455 /* LaunchScreen.storyboard in Resources */,
+				7319C5E21DA54B2C00B5B455 /* Assets.xcassets in Resources */,
+				7319C5DD1DA54B2C00B5B455 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		7319C5D01DA54B2B00B5B455 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7311E0BC1DB6DE39005B4AA9 /* Room+CoreDataProperties.swift in Sources */,
+				73E4A5661DB6B81D0065C00E /* CategoryTableViewController.swift in Sources */,
+				73E4A5621DB6B7E50065C00E /* RoomTableViewController.swift in Sources */,
+				73E4A5601DB6B75E0065C00E /* PropertyTableViewController.swift in Sources */,
+				7319C5E01DA54B2C00B5B455 /* HomeInventory.xcdatamodeld in Sources */,
+				7319C5DA1DA54B2B00B5B455 /* ViewController.swift in Sources */,
+				737E7F0B1DC7D7A90087B5E7 /* Item+CoreDataProperties.swift in Sources */,
+				73E4A56C1DB6B8660065C00E /* AddItemViewController.swift in Sources */,
+				7311E0BB1DB6DE39005B4AA9 /* Property.swift in Sources */,
+				73E4A5641DB6B7F70065C00E /* ItemTableViewController.swift in Sources */,
+				B83F6C861DD3C13300374856 /* ItemDetailViewController.swift in Sources */,
+				73E4A56A1DB6B84F0065C00E /* AddRoomViewController.swift in Sources */,
+				7311E0BA1DB6DE39005B4AA9 /* Property+CoreDataProperties.swift in Sources */,
+				737E7F0A1DC7D7A90087B5E7 /* Category.swift in Sources */,
+				7319C5D81DA54B2B00B5B455 /* AppDelegate.swift in Sources */,
+				737E7F0C1DC7D7A90087B5E7 /* Item.swift in Sources */,
+				73E4A5681DB6B8360065C00E /* AddPropertyViewController.swift in Sources */,
+				73E4A56E1DB6B87A0065C00E /* AddCategoryViewController.swift in Sources */,
+				7311E0BD1DB6DE39005B4AA9 /* Room.swift in Sources */,
+				737E7F091DC7D7A90087B5E7 /* Category+CoreDataProperties.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		7319C5DB1DA54B2C00B5B455 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7319C5DC1DA54B2C00B5B455 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		7319C5E31DA54B2C00B5B455 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				7319C5E41DA54B2C00B5B455 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		7319C5E71DA54B2C00B5B455 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		7319C5E81DA54B2C00B5B455 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		7319C5EA1DA54B2C00B5B455 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = HomeInventory/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = edu.iupui.elliott.HomeInventory;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		7319C5EB1DA54B2C00B5B455 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = HomeInventory/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = edu.iupui.elliott.HomeInventory;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		7319C5CF1DA54B2B00B5B455 /* Build configuration list for PBXProject "HomeInventory" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7319C5E71DA54B2C00B5B455 /* Debug */,
+				7319C5E81DA54B2C00B5B455 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7319C5E91DA54B2C00B5B455 /* Build configuration list for PBXNativeTarget "HomeInventory" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7319C5EA1DA54B2C00B5B455 /* Debug */,
+				7319C5EB1DA54B2C00B5B455 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		7319C5DE1DA54B2C00B5B455 /* HomeInventory.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				7319C5DF1DA54B2C00B5B455 /* HomeInventory.xcdatamodel */,
+			);
+			currentVersion = 7319C5DF1DA54B2C00B5B455 /* HomeInventory.xcdatamodel */;
+			path = HomeInventory.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 7319C5CC1DA54B2B00B5B455 /* Project object */;
+}

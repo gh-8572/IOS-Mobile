@@ -1,0 +1,60 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0Cp-Iu-kdN"; */
+"0Cp-Iu-kdN.text" = "Label";
+
+/* Class = "UILabel"; text = "Temperature:"; ObjectID = "60c-IV-BK6"; */
+"60c-IV-BK6.text" = "Temperature:";
+
+/* Class = "UILabel"; text = "State:"; ObjectID = "7It-5R-2pJ"; */
+"7It-5R-2pJ.text" = "State:";
+
+/* Class = "UILabel"; text = "City:"; ObjectID = "BXq-1K-Gfo"; */
+"BXq-1K-Gfo.text" = "City:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Byn-l1-KvH"; */
+"Byn-l1-KvH.text" = "Label";
+
+/* Class = "UILabel"; text = "Longitude:"; ObjectID = "DG4-1r-58S"; */
+"DG4-1r-58S.text" = "Longitude:";
+
+/* Class = "UILabel"; text = "CODE"; ObjectID = "F9C-6Q-Y4a"; */
+"F9C-6Q-Y4a.text" = "CODE";
+
+/* Class = "UILabel"; text = "Weather:"; ObjectID = "Gcg-7U-AIO"; */
+"Gcg-7U-AIO.text" = "Weather:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Pkk-UW-1b6"; */
+"Pkk-UW-1b6.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Pmi-U9-DhQ"; */
+"Pmi-U9-DhQ.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "U1L-CD-wvp"; */
+"U1L-CD-wvp.text" = "Label";
+
+/* Class = "UILabel"; text = "Latitude:"; ObjectID = "Zjw-G3-Gcr"; */
+"Zjw-G3-Gcr.text" = "Latitude:";
+
+/* Class = "UILabel"; text = "Wind Gusts:"; ObjectID = "hem-pV-j5s"; */
+"hem-pV-j5s.text" = "Wind Gusts:";
+
+/* Class = "UILabel"; text = "Wind Speed:"; ObjectID = "iTa-K1-Xyi"; */
+"iTa-K1-Xyi.text" = "Wind Speed:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iec-dV-B1Y"; */
+"iec-dV-B1Y.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kBS-hE-h5s"; */
+"kBS-hE-h5s.text" = "Label";
+
+/* Class = "UILabel"; text = "Country:"; ObjectID = "twR-QD-stJ"; */
+"twR-QD-stJ.text" = "Country:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uFI-0P-Hs9"; */
+"uFI-0P-Hs9.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yLl-K2-2Zt"; */
+"yLl-K2-2Zt.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zui-nd-9yc"; */
+"zui-nd-9yc.text" = "Label";

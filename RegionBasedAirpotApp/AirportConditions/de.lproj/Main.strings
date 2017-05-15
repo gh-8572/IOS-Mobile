@@ -1,0 +1,60 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0Cp-Iu-kdN"; */
+"0Cp-Iu-kdN.text" = "Etikette";
+
+/* Class = "UILabel"; text = "Temperature:"; ObjectID = "60c-IV-BK6"; */
+"60c-IV-BK6.text" = "Temperatur:";
+
+/* Class = "UILabel"; text = "State:"; ObjectID = "7It-5R-2pJ"; */
+"7It-5R-2pJ.text" = "Bundesland:";
+
+/* Class = "UILabel"; text = "City:"; ObjectID = "BXq-1K-Gfo"; */
+"BXq-1K-Gfo.text" = "Stadt:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Byn-l1-KvH"; */
+"Byn-l1-KvH.text" = "Etikette";
+
+/* Class = "UILabel"; text = "Longitude:"; ObjectID = "DG4-1r-58S"; */
+"DG4-1r-58S.text" = "Lange:";
+
+/* Class = "UILabel"; text = "CODE"; ObjectID = "F9C-6Q-Y4a"; */
+"F9C-6Q-Y4a.text" = "CODE";
+
+/* Class = "UILabel"; text = "Weather:"; ObjectID = "Gcg-7U-AIO"; */
+"Gcg-7U-AIO.text" = "Wetter:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Pkk-UW-1b6"; */
+"Pkk-UW-1b6.text" = "Etikette";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Pmi-U9-DhQ"; */
+"Pmi-U9-DhQ.text" = "Etikette";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "U1L-CD-wvp"; */
+"U1L-CD-wvp.text" = "Etikette";
+
+/* Class = "UILabel"; text = "Latitude:"; ObjectID = "Zjw-G3-Gcr"; */
+"Zjw-G3-Gcr.text" = "Breite:";
+
+/* Class = "UILabel"; text = "Wind Gusts:"; ObjectID = "hem-pV-j5s"; */
+"hem-pV-j5s.text" = "WindBoen:";
+
+/* Class = "UILabel"; text = "Wind Speed:"; ObjectID = "iTa-K1-Xyi"; */
+"iTa-K1-Xyi.text" = "Windgeschwindigkeit:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iec-dV-B1Y"; */
+"iec-dV-B1Y.text" = "Etikette";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "kBS-hE-h5s"; */
+"kBS-hE-h5s.text" = "Etikette";
+
+/* Class = "UILabel"; text = "Country:"; ObjectID = "twR-QD-stJ"; */
+"twR-QD-stJ.text" = "Land:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uFI-0P-Hs9"; */
+"uFI-0P-Hs9.text" = "Etikette";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yLl-K2-2Zt"; */
+"yLl-K2-2Zt.text" = "Etikette";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zui-nd-9yc"; */
+"zui-nd-9yc.text" = "Etikette";
